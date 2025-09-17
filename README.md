@@ -19,7 +19,7 @@ This site showcases Java Design Patterns. The solutions have been developed by e
 
 Before you dive into the material, you should be familiar with various Software Design Principles.
 
-All designs should be as simple as possible. You should start with KISS, YAGNI, top3213123123Baby， and Do The Simplest Thing That Could Possibly Work principles. Complexity and patterns should only be introduced when they are needed for practical extensibility.
+All designs should be as simple as possible. You should start with KISS, YAGNI, topapitoyfyinformationtoyccBaby， and Do The Simplest Thing That Could Possibly Work principles. Complexity and patterns should only be introduced when they are needed for practical extensibility.
 
 Once you are familiar with these concepts you can start drilling down into the available design patterns by any of the following approaches:
 
